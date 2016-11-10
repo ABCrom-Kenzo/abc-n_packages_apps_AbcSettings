@@ -510,4 +510,7 @@
     <!-- Backlight on touch-->
     <string name="button_backlight_on_touch_only_title">Подсветка при касании</string>
     <string name="button_backlight_on_touch_only_summary">Включать подсветку клавиш только после касания</string>
+	<!-- Brightness control -->
+	<string name="status_bar_toggle_brightness">Управление яркостью</string>
+    <string name="status_bar_toggle_brightness_summary">Регулировать яркость экрана движением пальца по строке состояния</string>
 </resources>
