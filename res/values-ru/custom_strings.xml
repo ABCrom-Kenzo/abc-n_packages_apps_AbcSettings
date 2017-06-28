@@ -415,7 +415,7 @@
     <string name="smartbar_config_backup_error_toast">Ошибка при сохранении профиля Smartbar</string>
     <string name="smartbar_config_restore_error_toast">Ошибка при восстановлении профиля Smartbar</string>
     <string name="navbar_buttons_alpha_title">Прозрачность кнопок</string>
-<!-- Smartbar longpress delay-->
+    <!-- Smartbar longpress delay-->
     <string name="smartbar_longpress_delay_title">Задержка долгого нажатия</string>
     <string name="smartbar_longpress_delay_summary">Укажите, как долго система будет ждать, прежде чем реагировать на долгое нажатие</string>
     <string name="smartbar_longpress_delay_default">Стандартная задержка (быстро)</string>
@@ -506,4 +506,7 @@
     <string name="backlight_timeout_30s">30 секунд</string>
     <!-- Enable keys backlight-->
     <string name="button_brightness_title">Включить подсветку</string>
+    <!-- Backlight on touch-->
+    <string name="button_backlight_on_touch_only_title">Подсветка при касании</string>
+    <string name="button_backlight_on_touch_only_summary">Включать подсветку клавиш только после касания</string>
 </resources>
