@@ -18,7 +18,7 @@
     <string name="abc_settings_title">Дополнительные настройки</string>
     <string name="abc_interface">Интерфейс</string>
     <string name="lockscreen_abc_settings_title">Настройки блокировки</string>
-    <string name="notification_drawer_settings_title">Панель быстрых настроек</string>
+    <string name="notification_drawer_settings_title">Уведомления и тайлы</string>
     <string name="statusbar_settings_title">Строка состояния</string>
     <string name="abc_sys">Разные настройки</string>
     <string name="power_settings_title">Настройки питания</string>
@@ -29,7 +29,7 @@
     <string name="abc_leds">Индикатор уведомлений</string>
     <string name="abc_battery_light_settings">Индикация батареи</string>
     <string name="abc_notification_light_settings">Индикация уведомлений</string>
-    <string name="recent_settings_title">Панель недавних приложений</string>
+    <string name="recent_settings_title">Недавние приложения</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Выбор цвета</string>
     <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
@@ -158,9 +158,9 @@
     <string name="ticker_media_enabled">Бегущая строка для уведомлений и музыки</string>
 
     <!-- Recents panel settings -->
-    <string name="show_clear_all_recents_button_title">Показывать кнопку \"Очистить всё\"</string>
-    <string name="show_clear_all_recents_button_summary">Показывать кнопку \"Очистить всё\" в \"Недавних приложениях\"</string>
-    <string name="recents_clear_all_location_title">Расположение кнопки \"Очистить всё\"</string>
+    <string name="show_clear_all_recents_button_title">Показывать кнопку «Очистить всё»</string>
+    <string name="show_clear_all_recents_button_summary">Показывать кнопку «Очистить всё» в «Недавних приложениях»</string>
+    <string name="recents_clear_all_location_title">Расположение кнопки «Очистить всё»</string>
     <string name="recents_clear_all_location_top_right">Вверху справа</string>
     <string name="recents_clear_all_location_top_left">Вверху слева</string>
     <string name="recents_clear_all_location_top_center">Вверху по центру</string>
@@ -419,6 +419,8 @@
     <string name="systemui_theme_style_light">Светлый</string>
     <string name="systemui_theme_style_dark">Темный</string>
 
-    <string name="notification_sound_vib_screen_on_title">Шумные уведомления при включенном экране</string>
-    <string name="notification_sound_vib_screen_on_summary">Отключите, чтобы блокировать звуковой сигнал и/или вибрацию при получении уведомления, когда экран включен</string>
+    <string name="notification_sound_vib_screen_on_title">Звук и вибрация уведомлений при включенном экране</string>
+    <string name="notification_sound_vib_screen_on_never">Никогда</string>
+    <string name="notification_sound_vib_screen_on_always">Всегда (по умолчанию)</string>
+    <string name="notification_sound_vib_screen_on_nomedia">Когда медиа не вопроизводится</string>
 </resources>
