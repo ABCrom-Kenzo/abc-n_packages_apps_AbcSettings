@@ -15,7 +15,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
-package com.abc.settings.fragments;
+package com.abc.settings;
 
 import android.content.ContentResolver;
 import android.content.res.Resources;

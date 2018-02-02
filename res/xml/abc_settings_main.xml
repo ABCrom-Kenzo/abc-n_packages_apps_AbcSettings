@@ -28,8 +28,8 @@
 		
         <Preference
             android:key="buttons_options"
-            android:title="@string/button_title"
-            android:fragment="com.abc.settings.fragments.ButtonSettings" />
+            android:fragment="com.abc.settings.ButtonSettings"
+            android:title="@string/button_title" />
 
         <Preference
             android:key="abc_lockscreen_settings"
