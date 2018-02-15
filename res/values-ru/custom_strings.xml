@@ -473,6 +473,9 @@
     <string name="clock_date_style_lowercase">Строчный</string>
     <string name="clock_date_style_uppercase">Прописной</string>
     <string name="clock_date_format_custom">Пользовательский формат</string>
+    <string name="clock_date_right">Справа от часов</string>
+    <string name="clock_date_left">Слева от часов</string>
+    <string name="clock_date_position">Положение даты</string>
 
     <!-- Battery styles -->
     <string name="battery_style_title">Стиль батареи</string>
