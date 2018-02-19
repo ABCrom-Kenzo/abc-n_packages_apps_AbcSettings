@@ -489,4 +489,7 @@
     <string name="battery_percent_none">Не отображать</string>
     <string name="battery_percent_outside">Рядом с иконкой</string>
     <string name="battery_percent_inside">Внутри иконки</string>
+
+    <string name="incall_notifications_vibrate">Менее надоедливые уведомления во время вызова</string>
+    <string name="incall_notifications_vibrate_summary">Вибрация вместо звукового сигнала для уведомлений во время вызова</string>
 </resources>
