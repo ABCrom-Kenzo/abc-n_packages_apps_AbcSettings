@@ -119,10 +119,10 @@
 
     <!-- QS rows and columns -->
     <string name="qs_rows_columns_title">Ряды и столбцы</string>
-    <string name="qs_rows_portrait_title">Число плиток в ряду (портрет.)</string>
-    <string name="qs_rows_landscape_title">Число плиток в ряду (альбом.)</string>
-    <string name="qs_columns_portrait_title">Число плиток в столбце (портрет.)</string>
-    <string name="qs_columns_landscape_title">Число плиток в столбце (альбом.)</string>
+    <string name="qs_rows_portrait_title">Число рядов (портрет.)</string>
+    <string name="qs_rows_landscape_title">Число рядов (альбом.)</string>
+    <string name="qs_columns_portrait_title">Число столбцов (портрет.)</string>
+    <string name="qs_columns_landscape_title">Число столбцов (альбом.)</string>
     <string name="qs_tile_title_visibility_title">Отображать подписи плиток</string>
     <string name="sysui_qqs_count_title">Число маленьких плиток</string>
 
