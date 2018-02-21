@@ -482,6 +482,7 @@
     <string name="battery_style_port">Вертикальный значок</string>
     <string name="battery_style_land">Горизонтальный значок</string>
     <string name="battery_style_circle">Круглый значок</string>
+    <string name="battery_style_dotted_circle">Точечный круг</string>
     <string name="battery_style_text">Текст</string>
     <string name="battery_style_hidden">Нет</string>
     <string name="show_battery_percent_title">Процент заряда</string>
